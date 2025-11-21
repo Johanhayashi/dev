@@ -1,0 +1,14 @@
+{
+    "folders": [
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "terminal.integrated.shell.linux": "/bin/bash",
+        "files.exclude": {
+            "**/.git": true,
+            "**/.DS_Store": true
+        }
+    }
+}
