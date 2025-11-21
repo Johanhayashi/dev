@@ -1,0 +1,17 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Run watcher",
+            "type": "shell",
+            "command": "python3 project-root/watcher.py",
+            "group": "none",
+            "presentation": {
+                "echo": true,
+                "reveal": "always",
+                "focus": false
+            },
+            "problemMatcher": []
+        }
+    ]
+}
